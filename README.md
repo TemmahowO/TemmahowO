@@ -1,7 +1,7 @@
 ∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙
 - 👋️ Hello! I am Temmie (@TemmahowO)
 - 👉️👈️ I'm interested in programming, music, video games and making theories.
-- 📚️ I'm currently learning how python, wanting to move onto C++ at some point 
+- 📚️ I'm currently learning python, wanting to move onto C++ at some point 
 - 💔️ I am not looking for collabirations at the moment.
 - 📫 How to reach me: Temium#4958 
 
